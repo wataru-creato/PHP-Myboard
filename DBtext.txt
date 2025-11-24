@@ -2,3 +2,5 @@ tanaka,1234
 yamada,5678admin,P@ssw0rd
 admin,P@ssw0rd
 あらい,arai
+わたる,0812
+けいご,0780
